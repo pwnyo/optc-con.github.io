@@ -5872,7 +5872,7 @@ window.captains = {
     2001: {
         atk: function(p) { return p.unit.class.has("Cerebral") || p.unit.class.has("Slasher") ? 2.5 : 1; },
     },
-    3000: {
+    2100: {
         atk: function(p) { if(p.classCount.Cerebral>=1 && p.classCount.Powerhouse>=1 && p.classCount.Shooter>=1) 
                 return 2.5;
             else
