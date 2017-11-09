@@ -1861,7 +1861,7 @@ window.aliases = {
     1860: ['', '', ''],
     2000: ['', '', 'Global Rayleigh', 'Raidleigh'],
     2001: ['', '', 'Global Rayleigh', 'Raidleigh'],
-    3000: ['', '', 'Legend Moria', 'Moria and Oars', 'Moria Oars'],
+    2100: ['', '', 'Legend Moria', 'Moria and Oars', 'Moria Oars'],
 };
 
 //  xxxx: ['JPN', 'FR', 'Other'],
