@@ -13003,4 +13003,10 @@ window.details = {
         special: "Randomizes all non-matching orbs, boosts ATK of all characters by 1.75x for 1 turn",
         specialName: "Maelstrom at Sea",
     },
+    2100: {//Legend Moria
+        captain: "Boosts ATK by 2.5x and HP by 1.4x if the crew has a Cerebral, Powerhouse, and Shooter, boosts chance of landing [INT] slots, and adds 1.4x more ATK to top-row characters if slots are [INT] <br> <b>Action:</b> Changes another character's slot to unfavorable and own slot to [INT]",
+        ,
+        special: "Makes [INT], [BLOCK], and unfavorable slots have matching slot effects for 3 turns and if character's slot is [INT], locks chain multiplier at 2.5x for 3 turns"
+        specialName: "Ruler of Thriller Bark",
+    },
 };
